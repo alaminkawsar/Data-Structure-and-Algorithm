@@ -7,3 +7,13 @@ A data structure is not only used for organizing the data. It is also used for p
 
 
 ![classification of data structure](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/ClassificationofDataStructure.jpg)
+
+
+
+
+
+
+
+
+###### Resources collected from:
+<sub>[Geeks for geeks](https://www.geeksforgeeks.org/data-structures)</sub>
