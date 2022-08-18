@@ -1,3 +1,5 @@
+/*In this program, we will delete node and append in any position*/
+
 #include<bits/stdc++.h>
 using namespace std;
 typedef long long ll;
@@ -32,6 +34,27 @@ void append(int roll){
     current_node->next = newnode;
 }
 
+
+// Delete node from any position by value
+
+void delete_node(int roll){
+    node *current_node = root;
+    node *previous_node = current_node;
+    while (current_node!=NULL and current_node->roll!=roll)
+    {
+        previous_node = current_node;
+        current_node = current_node->next;
+    }
+    if(current_node==NULL){
+        printf("Roll Not Found");
+        return;
+    }
+    previous_node->next = current_node->next;
+    delete(current_node);
+
+    
+}
+
 void printAll(){
     node *curent_node = root;
     while(curent_node!=NULL){
@@ -47,6 +70,13 @@ int main(){
     append(1);
     append(5);
     append(7);
+    append(3);
+    append(9);
+    append(10);
+
+    printAll();
+    delete_node(9);
+    printf("\nAfter operation:\n");
 
     printAll();
 
