@@ -6,7 +6,7 @@
 A data structure is not only used for organizing the data. It is also used for processing, retrieving, and storing data. There are different basic and advanced types of data structures that are used in almost every program or software system that has been developed. So we must have good knowledge about data structures. 
 
 
-![classification of data structure](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/ClassificationofDataStructure.jpg)
+![classification of data structure](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/resources/ClassificationofDataStructure.jpg)
 
 
 
@@ -16,13 +16,13 @@ A data structure is not only used for organizing the data. It is also used for p
 
 
 ###### Resources collected from:
-<sub>[Geeks for geeks](https://www.geeksforgeeks.org/data-structures)</sub>
+[Geeks for geeks](https://www.geeksforgeeks.org/data-structures)
 
 
 #### Linked List Tutorial
-<sub>[শাফায়েত ব্লগ লিংকড লিস্ট](http://www.shafaetsplanet.com/?p=2689)</sub>
+[শাফায়েত ব্লগ লিংকড লিস্ট](http://www.shafaetsplanet.com/?p=2689)
 
 
 #### Stack/Queue
-1. <sub>[শাফায়েত ব্লগ Stack](http://www.shafaetsplanet.com/?p=2342)</sub>
-2. <sub>[TECHIE DELIGHT](https://www.techiedelight.com/stack-implementation-in-cpp/)</sub>
+1. [শাফায়েত ব্লগ Stack](http://www.shafaetsplanet.com/?p=2342)
+2. [TECHIE DELIGHT](https://www.techiedelight.com/stack-implementation-in-cpp/)
