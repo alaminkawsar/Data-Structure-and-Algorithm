@@ -17,3 +17,12 @@ A data structure is not only used for organizing the data. It is also used for p
 
 ###### Resources collected from:
 <sub>[Geeks for geeks](https://www.geeksforgeeks.org/data-structures)</sub>
+
+
+#### Linked List Tutorial
+<sub>[শাফায়েত ব্লগ লিংকড লিস্ট](http://www.shafaetsplanet.com/?p=2689)</sub>
+
+
+#### Stack/Queue
+1. <sub>[শাফায়েত ব্লগ Stack](http://www.shafaetsplanet.com/?p=2342)</sub>
+2. <sub>[TECHIE DELIGHT](https://www.techiedelight.com/stack-implementation-in-cpp/)</sub>
