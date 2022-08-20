@@ -26,3 +26,6 @@ A data structure is not only used for organizing the data. It is also used for p
 #### Stack/Queue
 1. [শাফায়েত ব্লগ Stack](http://www.shafaetsplanet.com/?p=2342)
 2. [TECHIE DELIGHT](https://www.techiedelight.com/stack-implementation-in-cpp/)
+
+#### Disjoint-Set-Union(Union-Finding-Algorithm)
+1. [Disjoint-Set-Union->cp-algorithm](https://cp-algorithms.com/data_structures/disjoint_set_union.html#union-by-size-rank)
