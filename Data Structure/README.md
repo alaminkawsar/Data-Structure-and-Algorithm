@@ -28,7 +28,7 @@ A data structure is not only used for organizing the data. It is also used for p
 ## Disjoint-Set-Union(Union-Finding-Algorithm)
 1. [Disjoint-Set-Union->cp-algorithm](https://cp-algorithms.com/data_structures/disjoint_set_union.html#union-by-size-rank)
 
-### Applications and various improvements(DSU)
+#### Applications and various improvements(DSU)
 1. [**Connected components in a graph**](https://cp-algorithms.com/data_structures/disjoint_set_union.html#connected-components-in-a-graph)
 2. [**Search for connected components in an image**](https://cp-algorithms.com/data_structures/disjoint_set_union.html#search-for-connected-components-in-an-image)
 3. [**Store additional information for each set**](https://cp-algorithms.com/data_structures/disjoint_set_union.html#store-additional-information-for-each-set)
