@@ -42,6 +42,6 @@ A data structure is not only used for organizing the data. It is also used for p
 11. [**Historical retrospective**](https://cp-algorithms.com/data_structures/disjoint_set_union.html#historical-retrospective)
 
 ### Problems
-- [Codeforces-Roads not only in Berland](https://codeforces.com/contest/25/problem/D)--->[Get Solution]()
-- [SPOJ-CHAIN - Strange Food Chain](https://www.spoj.com/problems/CHAIN/)--->[Get Solution]()
-- [SPOJ-CLFLARR - COLORFUL ARRAY](https://www.spoj.com/problems/CLFLARR/)--->[Get Solution]()
+- [Codeforces-Roads not only in Berland](https://codeforces.com/contest/25/problem/D)--->[Get Solution](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/Union-Finding(Disjoint-Set)/Problems/1_cf_25_D.cpp)
+- [SPOJ-CHAIN - Strange Food Chain](https://www.spoj.com/problems/CHAIN/)--->[Get Solution](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/Union-Finding(Disjoint-Set)/Problems/2_spoj_chain.cpp)
+- [SPOJ-CLFLARR - COLORFUL ARRAY](https://www.spoj.com/problems/CLFLARR/)--->[Get Solution](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/Union-Finding(Disjoint-Set)/Problems/3_spoj_CLFLARR.cpp)
