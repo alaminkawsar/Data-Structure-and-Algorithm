@@ -28,7 +28,7 @@ A data structure is not only used for organizing the data. It is also used for p
 ## Disjoint-Set-Union(Union-Finding-Algorithm)
 1. [Disjoint-Set-Union->cp-algorithm](https://cp-algorithms.com/data_structures/disjoint_set_union.html#union-by-size-rank)
 
-#### Applications and various improvements(DSU)
+## Applications and various improvements(DSU)
 1. [**Connected components in a graph**](https://cp-algorithms.com/data_structures/disjoint_set_union.html#connected-components-in-a-graph)
 2. [**Search for connected components in an image**](https://cp-algorithms.com/data_structures/disjoint_set_union.html#search-for-connected-components-in-an-image)
 3. [**Store additional information for each set**](https://cp-algorithms.com/data_structures/disjoint_set_union.html#store-additional-information-for-each-set)
@@ -40,3 +40,8 @@ A data structure is not only used for organizing the data. It is also used for p
 9. [**Storing the DSU explicitly in a set list / Applications of this idea when merging various data structures**](https://cp-algorithms.com/data_structures/disjoint_set_union.html#storing-the-dsu-explicitly-in-a-set-list-applications-of-this-idea-when-merging-various-data-structures)
 10. [**Storing the DSU by maintaining a clear tree structure / Online bridge finding in **](https://cp-algorithms.com/data_structures/disjoint_set_union.html#storing-the-dsu-by-maintaining-a-clear-tree-structure-online-bridge-finding-in-oalphan-on-average)
 11. [**Historical retrospective**](https://cp-algorithms.com/data_structures/disjoint_set_union.html#historical-retrospective)
+
+### Problems
+- [Codeforces-Roads not only in Berland](https://codeforces.com/contest/25/problem/D)--->[Get Solution]()
+- [SPOJ-CHAIN - Strange Food Chain](https://www.spoj.com/problems/CHAIN/)--->[Get Solution]()
+- [SPOJ-CLFLARR - COLORFUL ARRAY](https://www.spoj.com/problems/CLFLARR/)--->[Get Solution]()
