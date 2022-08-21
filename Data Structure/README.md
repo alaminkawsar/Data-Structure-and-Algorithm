@@ -27,8 +27,10 @@ A data structure is not only used for organizing the data. It is also used for p
 
 ## Disjoint-Set-Union(Union-Finding-Algorithm)
 1. [Disjoint-Set-Union->cp-algorithm](https://cp-algorithms.com/data_structures/disjoint_set_union.html#union-by-size-rank)
+2. [Disjoint Set Union (Union Find)-Hacker Earth](https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/)
 
-## Applications and various improvements(DSU)
+
+### Applications and various improvements(DSU)
 1. [**Connected components in a graph**](https://cp-algorithms.com/data_structures/disjoint_set_union.html#connected-components-in-a-graph)
 2. [**Search for connected components in an image**](https://cp-algorithms.com/data_structures/disjoint_set_union.html#search-for-connected-components-in-an-image)
 3. [**Store additional information for each set**](https://cp-algorithms.com/data_structures/disjoint_set_union.html#store-additional-information-for-each-set)
@@ -42,6 +44,10 @@ A data structure is not only used for organizing the data. It is also used for p
 11. [**Historical retrospective**](https://cp-algorithms.com/data_structures/disjoint_set_union.html#historical-retrospective)
 
 ### Problems
-- [Codeforces-Roads not only in Berland](https://codeforces.com/contest/25/problem/D)--->[Get Solution](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/Union-Finding(Disjoint-Set)/Problems/1_cf_25_D.cpp)
-- [SPOJ-CHAIN - Strange Food Chain](https://www.spoj.com/problems/CHAIN/)--->[Get Solution](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/Union-Finding(Disjoint-Set)/Problems/2_spoj_chain.cpp)
-- [SPOJ-CLFLARR - COLORFUL ARRAY](https://www.spoj.com/problems/CLFLARR/)--->[Get Solution](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/Union-Finding(Disjoint-Set)/Problems/3_spoj_CLFLARR.cpp)
+- [Codeforces - Roads not only in Berland](https://codeforces.com/contest/25/problem/D)--->[Get Solution](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/Union-Finding(Disjoint-Set)/Problems/1_cf_25_D.cpp)
+- [SPOJ - CHAIN - Strange Food Chain](https://www.spoj.com/problems/CHAIN/)--->[Get Solution](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/Union-Finding(Disjoint-Set)/Problems/2_spoj_chain.cpp)
+- [SPOJ - CLFLARR - COLORFUL ARRAY](https://www.spoj.com/problems/CLFLARR/)--->[Get Solution](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/Union-Finding(Disjoint-Set)/Problems/3_spoj_CLFLARR.cpp)
+- [SPOJ - CONSEC-Consecutive Letters](https://www.spoj.com/problems/CONSEC/)--->[Get Solution](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/Union-Finding(Disjoint-Set)/Problems/4_spoj_CONSEC.cpp) , [alternative solution](http://en.shafaetsplanet.com/problem-solving-consecutive-letters-mist-inter-university-contest-2019)
+- [Toph - Unbelievable Array](https://toph.co/p/unbelievable-array)--->[Get Solution]
+- [HackerEarth - Lexicographically minimal string](https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/lexicographically-minimal-string-6edc1406/description/)--->[Get Solution]
+- [HackerEarth - Fight in Ninja World](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/containers-of-choclates-1/)--->[Get Solution]
