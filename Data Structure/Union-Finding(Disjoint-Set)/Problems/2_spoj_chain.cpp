@@ -47,7 +47,6 @@ void solve(){
 }
 int main()
 {
-    printf("%d\n",-1%3);
     //ios_base::sync_with_stdio(false);
     //cin.tie(NULL);
     //freopen("input.txt","r",stdin);
