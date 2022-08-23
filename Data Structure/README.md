@@ -56,7 +56,7 @@ A data structure is not only used for organizing the data. It is also used for p
 ## Trie Data Structure(prefix/redix tree)
 1. [ডাটা স্ট্রাকচার: ট্রাই (প্রিফিক্স ট্রি/রেডিক্স ট্রি)-shafayet blog](http://www.shafaetsplanet.com/?p=1679)
 
-###Problems
+### Problems
 1. [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)--->[Get Solution]
 2. [UVA 10226](http://uva.onlinejudge.org/external/102/10226.html)--->[Get Solution]
 3. [UVA 11488 Hyper Prefix Sets](http://uva.onlinejudge.org/external/114/11488.html)--->[Get Solution]
