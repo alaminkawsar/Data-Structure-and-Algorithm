@@ -51,3 +51,15 @@ A data structure is not only used for organizing the data. It is also used for p
 - [Toph - Unbelievable Array](https://toph.co/p/unbelievable-array)--->[Get Solution]
 - [HackerEarth - Lexicographically minimal string](https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/lexicographically-minimal-string-6edc1406/description/)--->[Get Solution]
 - [HackerEarth - Fight in Ninja World](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/containers-of-choclates-1/)--->[Get Solution]
+
+
+## Trie Data Structure(prefix/redix tree)
+1. [ডাটা স্ট্রাকচার: ট্রাই (প্রিফিক্স ট্রি/রেডিক্স ট্রি)-shafayet blog](http://www.shafaetsplanet.com/?p=1679)
+
+###Problems
+1. [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)--->[Get Solution]
+2. [UVA 10226](http://uva.onlinejudge.org/external/102/10226.html)--->[Get Solution]
+3. [UVA 11488 Hyper Prefix Sets](http://uva.onlinejudge.org/external/114/11488.html)--->[Get Solution]
+4. [UVA 11362 Phonebook](http://uva.onlinejudge.org/external/113/11362.html)--->[Get Solution]
+5. [SPOJ-2001Shortest Prefix](http://poj.org/problem?id=2001)--->[Get Solution]
+6. [SPOJ-1056](http://poj.org/problem?id=1056)--->[Get Solution]
