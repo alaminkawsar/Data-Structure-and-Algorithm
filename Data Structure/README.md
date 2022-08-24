@@ -62,4 +62,4 @@ A data structure is not only used for organizing the data. It is also used for p
 3. [UVA 11488 Hyper Prefix Sets](http://uva.onlinejudge.org/external/114/11488.html)--->[Get Solution]
 4. [UVA 11362 Phonebook](http://uva.onlinejudge.org/external/113/11362.html)--->[Get Solution]
 5. [POJ-2001Shortest Prefix](http://poj.org/problem?id=2001)--->[Get Solution]
-6. [POJ-1056](http://poj.org/problem?id=1056)--->[Get Solution]
+6. [POJ-1056](http://poj.org/problem?id=1056)--->[Get Solution](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/Trie_Redix_tree_prefix_tree/Problems/2_IMMEDIATE_DECODABILITY.cpp)
