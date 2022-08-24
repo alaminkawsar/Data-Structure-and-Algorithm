@@ -76,3 +76,9 @@ Markup  :   1. [ডাটা স্ট্রাকচার: সেগমেন�
             2. [Segment Tree-CP-Alogirthm](https://cp-algorithms.com/data_structures/segment_tree.html)
             3. [Segment Tree-HackerEarth](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial)
                 1. [Segment Tree and Lazy Propagation - HackerEarth](https://www.hackerearth.com/practice/notes/segment-tree-and-lazy-propagation/)
+
+
+ Markup : 1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
