@@ -66,3 +66,13 @@ A data structure is not only used for organizing the data. It is also used for p
 7. [Light OJ-1114: Easily Readable](https://lightoj.com/problem/easily-readable)--->[Get Solution](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/Trie_Redix_tree_prefix_tree/Problems/4_LOJ_1114.cpp)
 8. [Light OJ-1129: Consistency Checker](https://lightoj.com/problem/consistency-checker)--->[Get Solution](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/Trie_Redix_tree_prefix_tree/Problems/5_LOJ_1129.cpp)
 9. [Light OJ_1224_DNA_Prefix](https://lightoj.com/problem/dna-prefix)--->[Get Solution](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/Trie_Redix_tree_prefix_tree/Problems/6_LOJ_1224_DNA_Prefix.cpp)
+
+
+## Segment Tree
+
+Markup  :   1. [ডাটা স্ট্রাকচার: সেগমেন্ট ট্রি-Shafayet's Blog](http://www.shafaetsplanet.com/?p=1557)
+                1. [সেগমেন্ট ট্রি-১](http://www.shafaetsplanet.com/?p=1557)
+                2. [সেগমেন্ট ট্রি-২ (লেজি প্রপাগেশন)](http://www.shafaetsplanet.com/?p=1591)
+            2. [Segment Tree-CP-Alogirthm](https://cp-algorithms.com/data_structures/segment_tree.html)
+            3. [Segment Tree-HackerEarth](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial)
+                1. [Segment Tree and Lazy Propagation - HackerEarth](https://www.hackerearth.com/practice/notes/segment-tree-and-lazy-propagation/)
