@@ -57,7 +57,7 @@ A data structure is not only used for organizing the data. It is also used for p
 1. [ডাটা স্ট্রাকচার: ট্রাই (প্রিফিক্স ট্রি/রেডিক্স ট্রি)-shafayet blog](http://www.shafaetsplanet.com/?p=1679)
 
 ### Problems
-1. [Leetcode - 1268-Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)--->[Get Solution](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/Trie_Redix_tree_prefix_tree/1_search_word.cpp)
+1. [Leetcode - 1268-Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)--->[Get Solution](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/Trie_Redix_tree_prefix_tree/Problems/1_1268_Search_Suggestions_System.cpp)
 2. [UVA 10226](http://uva.onlinejudge.org/external/102/10226.html)--->[Get Solution]
 3. [UVA 11488 Hyper Prefix Sets](http://uva.onlinejudge.org/external/114/11488.html)--->[Get Solution]
 4. [UVA 11362 Phonebook](http://uva.onlinejudge.org/external/113/11362.html)--->[Get Solution]
