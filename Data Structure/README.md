@@ -70,15 +70,9 @@ A data structure is not only used for organizing the data. It is also used for p
 
 ## Segment Tree
 
-Markup  :   1. [ডাটা স্ট্রাকচার: সেগমেন্ট ট্রি-Shafayet's Blog](http://www.shafaetsplanet.com/?p=1557)
-                1. [সেগমেন্ট ট্রি-১](http://www.shafaetsplanet.com/?p=1557)
-                2. [সেগমেন্ট ট্রি-২ (লেজি প্রপাগেশন)](http://www.shafaetsplanet.com/?p=1591)
-            2. [Segment Tree-CP-Alogirthm](https://cp-algorithms.com/data_structures/segment_tree.html)
-            3. [Segment Tree-HackerEarth](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial)
-                1. [Segment Tree and Lazy Propagation - HackerEarth](https://www.hackerearth.com/practice/notes/segment-tree-and-lazy-propagation/)
-
-
- Markup : 1. A numbered list
-              1. A nested numbered list
-              2. Which is numbered
-          2. Which is numbered
+1. [ডাটা স্ট্রাকচার: সেগমেন্ট ট্রি-Shafayet's Blog](http://www.shafaetsplanet.com/?p=1557)
+    1. [সেগমেন্ট ট্রি-১](http://www.shafaetsplanet.com/?p=1557)
+    2. [সেগমেন্ট ট্রি-২ (লেজি প্রপাগেশন)](http://www.shafaetsplanet.com/?p=1591)
+2. [Segment Tree-CP-Alogirthm](https://cp-algorithms.com/data_structures/segment_tree.html)
+3. [Segment Tree-HackerEarth](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial)
+    1. [Segment Tree and Lazy Propagation - HackerEarth](https://www.hackerearth.com/practice/notes/segment-tree-and-lazy-propagation/)
