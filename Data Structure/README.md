@@ -75,4 +75,5 @@ A data structure is not only used for organizing the data. It is also used for p
     2. [সেগমেন্ট ট্রি-২ (লেজি প্রপাগেশন)](http://www.shafaetsplanet.com/?p=1591)
 2. [Segment Tree-CP-Alogirthm](https://cp-algorithms.com/data_structures/segment_tree.html)
 3. [Segment Tree-HackerEarth](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial)
-    1. [Segment Tree and Lazy Propagation - HackerEarth](https://www.hackerearth.com/practice/notes/segment-tree-and-lazy-propagation/)
+    1. [Segment Tree-HackerEarth](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial)
+    2. [Segment Tree and Lazy Propagation - HackerEarth](https://www.hackerearth.com/practice/notes/segment-tree-and-lazy-propagation/)
