@@ -81,3 +81,5 @@ A data structure is not only used for organizing the data. It is also used for p
 ### Problems
 1. [LOJ-1080-Binary Simulation](https://lightoj.com/problem/binary-simulation)--->[Get Solution](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/Segment%20Tree/Problem/1_LOJ_1080_Binary_Simulation.cpp)
 2. [LOJ-1082-Array_Queries](https://lightoj.com/problem/array-queries)--->[Get Solution](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/Segment%20Tree/Problem/2_Array_Queries.cpp)
+3. [LOJ-1112-Curious Robin Hood](https://lightoj.com/problem/curious-robin-hood)--->[Get Solution](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/Segment%20Tree/Problem/3_LOJ_1112_Curious_Robin_Hood.cpp)
+
