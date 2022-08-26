@@ -79,4 +79,5 @@ A data structure is not only used for organizing the data. It is also used for p
     2. [Segment Tree and Lazy Propagation - HackerEarth](https://www.hackerearth.com/practice/notes/segment-tree-and-lazy-propagation/)
 
 ### Problems
-1. [Binary Simulation](https://lightoj.com/problem/binary-simulation)--->[Get Solution]()
+1. [LOJ-1080-Binary Simulation](https://lightoj.com/problem/binary-simulation)--->[Get Solution](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/Segment%20Tree/Problem/1_LOJ_1080_Binary_Simulation.cpp)
+2. [LOJ-1082-Array_Queries](https://lightoj.com/problem/array-queries)--->[Get Solution](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/Segment%20Tree/Problem/2_Array_Queries.cpp)
