@@ -83,4 +83,7 @@ A data structure is not only used for organizing the data. It is also used for p
 2. [LOJ-1082-Array_Queries](https://lightoj.com/problem/array-queries)--->[Get Solution](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/Segment%20Tree/Problem/2_Array_Queries.cpp)
 3. [LOJ-1112-Curious Robin Hood](https://lightoj.com/problem/curious-robin-hood)--->[Get Solution](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/Segment%20Tree/Problem/3_LOJ_1112_Curious_Robin_Hood.cpp)
 4. [LOJ-1164-Horrible Queries](https://lightoj.com/problem/horrible-queries)--->[Get Solution](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/Segment%20Tree/Problem/4_LOJ_1164.cpp)
+5. [SPOJ - KQUERY](http://www.spoj.com/problems/KQUERY/)--->[Get Solution]
+6. [Codeforces - Xenia and Bit Operations](https://codeforces.com/problemset/problem/339/D)--->[Get Solution]
+7. [UVA 11402 - Ahoy, Pirates!](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2397)
 
