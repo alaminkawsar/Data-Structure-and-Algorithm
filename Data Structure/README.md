@@ -92,17 +92,17 @@ A data structure is not only used for organizing the data. It is also used for p
 11. [Codeforces - Ant colony](https://codeforces.com/contest/474/problem/F)
 12. [Codeforces - Drazil and Park](https://codeforces.com/contest/515/problem/E)
 13. [Codeforces - Circular RMQ](https://codeforces.com/problemset/problem/52/C)
-14. [Codeforces - Lucky Array]
-15. [Codeforces - The Child and Sequence]
-16. [Codeforces - DZY Loves Fibonacci Numbers [Lazy propagation]]
-17. [Codeforces - Alphabet Permutations]
-18. [Codeforces - Eyes Closed]
-19. [Codeforces - Kefa and Watch]
-20. [Codeforces - A Simple Task]
-21. [Codeforces - SUM and REPLACE]
-22. [COCI - Deda [Last element smaller or equal to x / Binary search]]
-23. [Codeforces - The Untended Antiquity [2D]]
-24. [CSES - Hotel Queries]
-25. [CSES - Polynomial Queries]
-26. [CSES - Range Updates and Sums]
+14. [Codeforces - Lucky Array](https://codeforces.com/contest/121/problem/E)
+15. [Codeforces - The Child and Sequence](https://codeforces.com/contest/438/problem/D)
+16. [Codeforces - DZY Loves Fibonacci Numbers [Lazy propagation]](https://codeforces.com/contest/446/problem/C)
+17. [Codeforces - Alphabet Permutations](https://codeforces.com/problemset/problem/610/E)
+18. [Codeforces - Eyes Closed](https://codeforces.com/problemset/problem/895/E)
+19. [Codeforces - Kefa and Watch](https://codeforces.com/problemset/problem/580/E)
+20. [Codeforces - A Simple Task](https://codeforces.com/problemset/problem/558/E)
+21. [Codeforces - SUM and REPLACE](https://codeforces.com/problemset/problem/920/F)
+22. [COCI - Deda [Last element smaller or equal to x / Binary search]](https://oj.uz/problem/view/COCI17_deda)
+23. [Codeforces - The Untended Antiquity [2D]](https://codeforces.com/problemset/problem/869/E)
+24. [CSES - Hotel Queries](https://cses.fi/problemset/task/1143)
+25. [CSES - Polynomial Queries](https://cses.fi/problemset/task/1736)
+26. [CSES - Range Updates and Sums](https://cses.fi/problemset/task/1735)
 
