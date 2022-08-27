@@ -85,27 +85,27 @@ A data structure is not only used for organizing the data. It is also used for p
 4. [LOJ-1164-Horrible Queries](https://lightoj.com/problem/horrible-queries)--->[Get Solution](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/Segment%20Tree/Problem/4_LOJ_1164.cpp)
 5. [SPOJ - KQUERY](http://www.spoj.com/problems/KQUERY/)--->[Get Solution]
 6. [Codeforces - Xenia and Bit Operations](https://codeforces.com/problemset/problem/339/D)--->[Get Solution]
-7. [UVA 11402 - Ahoy, Pirates!](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2397)
-8. [SPOJ - GSS3](http://www.spoj.com/problems/GSS3/)
-9. [Codeforces - Distinct Characters Queries](https://codeforces.com/problemset/problem/1234/D)
-10. [Codeforces - Knight Tournament ](https://codeforces.com/contest/356/problem/A)
-11. [Codeforces - Ant colony](https://codeforces.com/contest/474/problem/F)
-12. [Codeforces - Drazil and Park](https://codeforces.com/contest/515/problem/E)
-13. [Codeforces - Circular RMQ](https://codeforces.com/problemset/problem/52/C)
-14. [Codeforces - Lucky Array](https://codeforces.com/contest/121/problem/E)
-15. [Codeforces - The Child and Sequence](https://codeforces.com/contest/438/problem/D)
-16. [Codeforces - DZY Loves Fibonacci Numbers [Lazy propagation]](https://codeforces.com/contest/446/problem/C)
-17. [Codeforces - Alphabet Permutations](https://codeforces.com/problemset/problem/610/E)
-18. [Codeforces - Eyes Closed](https://codeforces.com/problemset/problem/895/E)
-19. [Codeforces - Kefa and Watch](https://codeforces.com/problemset/problem/580/E)
-20. [Codeforces - A Simple Task](https://codeforces.com/problemset/problem/558/E)
-21. [Codeforces - SUM and REPLACE](https://codeforces.com/problemset/problem/920/F)
-22. [COCI - Deda [Last element smaller or equal to x / Binary search]](https://oj.uz/problem/view/COCI17_deda)
-23. [Codeforces - The Untended Antiquity [2D]](https://codeforces.com/problemset/problem/869/E)
-24. [CSES - Hotel Queries](https://cses.fi/problemset/task/1143)
-25. [CSES - Polynomial Queries](https://cses.fi/problemset/task/1736)
-26. [CSES - Range Updates and Sums](https://cses.fi/problemset/task/1735)
-27. [Toph - just-another-range-query](https://toph.co/p/just-another-range-query)
-28. [Toph - Easy-Prime](https://toph.co/p/easy-prime)
-29. [Toph - Answer-the-Queries](https://toph.co/p/answer-the-queries)
-30. [Toph - Donate-Our-Department](https://toph.co/p/donate-our-department)
+7. [UVA 11402 - Ahoy, Pirates!](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2397)--->[Get Solution]
+8. [SPOJ - GSS3](http://www.spoj.com/problems/GSS3/)--->[Get Solution]
+9. [Codeforces - Distinct Characters Queries](https://codeforces.com/problemset/problem/1234/D)--->[Get Solution]
+10. [Codeforces - Knight Tournament ](https://codeforces.com/contest/356/problem/A)--->[Get Solution]
+11. [Codeforces - Ant colony](https://codeforces.com/contest/474/problem/F)--->[Get Solution]
+12. [Codeforces - Drazil and Park](https://codeforces.com/contest/515/problem/E)--->[Get Solution]
+13. [Codeforces - Circular RMQ](https://codeforces.com/problemset/problem/52/C)--->[Get Solution]
+14. [Codeforces - Lucky Array](https://codeforces.com/contest/121/problem/E)--->[Get Solution]
+15. [Codeforces - The Child and Sequence](https://codeforces.com/contest/438/problem/D)--->[Get Solution]
+16. [Codeforces - DZY Loves Fibonacci Numbers [Lazy propagation]](https://codeforces.com/contest/446/problem/C)--->[Get Solution]
+17. [Codeforces - Alphabet Permutations](https://codeforces.com/problemset/problem/610/E)--->[Get Solution]
+18. [Codeforces - Eyes Closed](https://codeforces.com/problemset/problem/895/E)--->[Get Solution]
+19. [Codeforces - Kefa and Watch](https://codeforces.com/problemset/problem/580/E)--->[Get Solution]
+20. [Codeforces - A Simple Task](https://codeforces.com/problemset/problem/558/E)--->[Get Solution]
+21. [Codeforces - SUM and REPLACE](https://codeforces.com/problemset/problem/920/F)--->[Get Solution]
+22. [COCI - Deda [Last element smaller or equal to x / Binary search]](https://oj.uz/problem/view/COCI17_deda)--->[Get Solution]
+23. [Codeforces - The Untended Antiquity [2D]](https://codeforces.com/problemset/problem/869/E)--->[Get Solution]
+24. [CSES - Hotel Queries](https://cses.fi/problemset/task/1143)--->[Get Solution]
+25. [CSES - Polynomial Queries](https://cses.fi/problemset/task/1736)--->[Get Solution]
+26. [CSES - Range Updates and Sums](https://cses.fi/problemset/task/1735)--->[Get Solution]
+27. [Toph - just-another-range-query](https://toph.co/p/just-another-range-query)--->[Get Solution]
+28. [Toph - Easy-Prime](https://toph.co/p/easy-prime)--->[Get Solution]
+29. [Toph - Answer-the-Queries](https://toph.co/p/answer-the-queries)--->[Get Solution]
+30. [Toph - Donate-Our-Department](https://toph.co/p/donate-our-department)--->[Get Solution]
