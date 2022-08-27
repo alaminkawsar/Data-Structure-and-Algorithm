@@ -86,4 +86,9 @@ A data structure is not only used for organizing the data. It is also used for p
 5. [SPOJ - KQUERY](http://www.spoj.com/problems/KQUERY/)--->[Get Solution]
 6. [Codeforces - Xenia and Bit Operations](https://codeforces.com/problemset/problem/339/D)--->[Get Solution]
 7. [UVA 11402 - Ahoy, Pirates!](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2397)
+8. [SPOJ - GSS3](http://www.spoj.com/problems/GSS3/)
+9. [Codeforces - Distinct Characters Queries](https://codeforces.com/problemset/problem/1234/D)
+10. [Codeforces - Knight Tournament ](https://codeforces.com/contest/356/problem/A)
+11. [Codeforces - Ant colony](https://codeforces.com/contest/474/problem/F)
+12. [Codeforces - Drazil and Park](https://codeforces.com/contest/515/problem/E)
 
