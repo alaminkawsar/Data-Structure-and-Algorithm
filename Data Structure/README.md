@@ -91,4 +91,18 @@ A data structure is not only used for organizing the data. It is also used for p
 10. [Codeforces - Knight Tournament ](https://codeforces.com/contest/356/problem/A)
 11. [Codeforces - Ant colony](https://codeforces.com/contest/474/problem/F)
 12. [Codeforces - Drazil and Park](https://codeforces.com/contest/515/problem/E)
+13. [Codeforces - Circular RMQ](https://codeforces.com/problemset/problem/52/C)
+14. [Codeforces - Lucky Array]
+15. [Codeforces - The Child and Sequence]
+16. [Codeforces - DZY Loves Fibonacci Numbers [Lazy propagation]]
+17. [Codeforces - Alphabet Permutations]
+18. [Codeforces - Eyes Closed]
+19. [Codeforces - Kefa and Watch]
+20. [Codeforces - A Simple Task]
+21. [Codeforces - SUM and REPLACE]
+22. [COCI - Deda [Last element smaller or equal to x / Binary search]]
+23. [Codeforces - The Untended Antiquity [2D]]
+24. [CSES - Hotel Queries]
+25. [CSES - Polynomial Queries]
+26. [CSES - Range Updates and Sums]
 
