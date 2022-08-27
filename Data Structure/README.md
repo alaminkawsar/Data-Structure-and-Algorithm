@@ -105,4 +105,7 @@ A data structure is not only used for organizing the data. It is also used for p
 24. [CSES - Hotel Queries](https://cses.fi/problemset/task/1143)
 25. [CSES - Polynomial Queries](https://cses.fi/problemset/task/1736)
 26. [CSES - Range Updates and Sums](https://cses.fi/problemset/task/1735)
-
+27. [Toph - just-another-range-query](https://toph.co/p/just-another-range-query)
+28. [Toph - Easy-Prime](https://toph.co/p/easy-prime)
+29. [Toph - Answer-the-Queries](https://toph.co/p/answer-the-queries)
+30. [Toph - Donate-Our-Department](https://toph.co/p/donate-our-department)
