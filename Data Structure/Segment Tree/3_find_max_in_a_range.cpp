@@ -31,7 +31,7 @@ void build(int v, int tl, int tr){
 }
 
 pii getMax(int v, int tl, int tr, int l, int r) {
-    if(l>v){
+    if(l>r){
         return pii(-INF,0);
     }
     if(l==tl and r==tr){
