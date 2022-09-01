@@ -52,6 +52,7 @@ void build(int v, int tl, int tr) {
     build(v*2+1,tm+1, tr);
     tree[v] = combine(tree[v*2], tree[v*2+1]);
 }
+int k=0;
 
 void update(int v, int tl, int tr, int l, int r, int carry) {
 
@@ -65,7 +66,7 @@ void update(int v, int tl, int tr, int l, int r, int carry) {
             swap(tree[v].zero,tree[v].two);
             swap(tree[v].zero,tree[v].one);
         }
-        tree[v].prop=carry;
+        tree[v].prop+=carry;
         
         // p3(tl,tr,carry);
         // p3(tree[v].zero,tree[v].one,tree[v].two);
@@ -84,12 +85,25 @@ void update(int v, int tl, int tr, int l, int r, int carry) {
 data getAnswer(int v, int tl, int tr, int l, int r, int carry) {
     if(l>tr or r<tl) return make_data(0);
     if(l<=tl and tr<=r){
-
-        return tree[v];
+        
+        data res;
+        carry%=3;
+        if(carry==0) return tree[v];
+        if(carry==1){
+            res.two=tree[v].one;
+            res.zero=tree[v].two;
+            res.one = tree[v].zero;
+        }else{
+            res.zero=tree[v].one;
+            res.one=tree[v].two;
+            res.two = tree[v].zero;
+        }
+        return res;
     }
+    //p3(tl,tr,tree[v].prop);
     int tm = (tl+tr)/2;
-    return combine(getAnswer(v*2, tl, tm, l, min(r,tm), tree[v].prop),
-        getAnswer(v*2+1, tm+1, tr, max(l,tm+1), r, tree[v].prop));
+    return combine(getAnswer(v*2, tl, tm, l, min(r,tm), tree[v].prop+carry),
+        getAnswer(v*2+1, tm+1, tr, max(l,tm+1), r, tree[v].prop+carry));
 
 }
 
