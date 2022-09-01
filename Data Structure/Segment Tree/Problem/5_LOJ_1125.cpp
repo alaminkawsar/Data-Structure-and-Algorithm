@@ -81,14 +81,15 @@ void update(int v, int tl, int tr, int l, int r, int carry) {
     //printf("Tree %d=(%d,%d)->(%d %d %d)\n",v,tl,tr,tree[v].zero,tree[v].one,tree[v].two);
 }
 
-data getAnswer(int v, int tl, int tr, int l, int r) {
+data getAnswer(int v, int tl, int tr, int l, int r, int carry) {
     if(l>tr or r<tl) return make_data(0);
     if(l<=tl and tr<=r){
+
         return tree[v];
     }
     int tm = (tl+tr)/2;
-    return combine(getAnswer(v*2, tl, tm, l, min(r,tm)),
-        getAnswer(v*2+1, tm+1, tr, max(l,tm+1), r));
+    return combine(getAnswer(v*2, tl, tm, l, min(r,tm), tree[v].prop),
+        getAnswer(v*2+1, tm+1, tr, max(l,tm+1), r, tree[v].prop));
 
 }
 
@@ -109,7 +110,7 @@ void solve()
             update(1,0,n-1,x,y,0);
         }
         else{
-            printf("%d\n",getAnswer(1,0,n-1,x,y).zero);
+            printf("%d\n",getAnswer(1,0,n-1,x,y,tree[1].prop).zero);
         }
         //data ans = getAnswer(1,0,n-1,0,9);
         //printf("query(%d %d), zero=%d one=%d two=%d\n",x,y,ans.zero,ans.one,ans.two);
