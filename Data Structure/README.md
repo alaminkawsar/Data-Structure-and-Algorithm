@@ -110,3 +110,4 @@ A data structure is not only used for organizing the data. It is also used for p
 29. [Toph - Answer-the-Queries](https://toph.co/p/answer-the-queries)--->[Get Solution]
 30. [Toph - Donate-Our-Department](https://toph.co/p/donate-our-department)--->[Get Solution]
 31. [LOJ-1135 - Count the Multiples of 3](https://lightoj.com/problem/count-the-multiples-of-3)--->[Get Solution](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/Segment%20Tree/Problem/5_LOJ_1135_multiplied_by_3.cpp)
+32. [LOJ-1183 - Computing Fast Average](https://lightoj.com/problem/computing-fast-average)---[Get Solution](https://lightoj.com/problem/count-the-multiples-of-3)--->[Get Solution](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/Segment%20Tree/Problem/6_LOJ_1183_Computing_Fast_Average.cpp)
