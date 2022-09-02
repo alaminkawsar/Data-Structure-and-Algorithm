@@ -51,6 +51,7 @@ A data structure is not only used for organizing the data. It is also used for p
 - [Toph - Unbelievable Array](https://toph.co/p/unbelievable-array)--->[Get Solution]
 - [HackerEarth - Lexicographically minimal string](https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/lexicographically-minimal-string-6edc1406/description/)--->[Get Solution]
 - [HackerEarth - Fight in Ninja World](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/containers-of-choclates-1/)--->[Get Solution]
+- [LOJ-1207 - Posters for Election](https://lightoj.com/problem/posters-for-election)--->[Get Solution](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/Union-Finding(Disjoint-Set)/Problems/6_LOJ_1207_Posters_for_Election.cpp)
 
 
 ## Trie Data Structure(prefix/redix tree)
