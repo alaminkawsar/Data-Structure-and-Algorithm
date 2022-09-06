@@ -45,7 +45,7 @@ A data structure is not only used for organizing the data. It is also used for p
 
 ### Problems
 - [Codeforces - Roads not only in Berland](https://codeforces.com/contest/25/problem/D)--->[Get Solution](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/Union-Finding(Disjoint-Set)/Problems/1_cf_25_D.cpp)
-- [C. Jatayu's Balanced Bracket Sequence](https://codeforces.com/contest/1726/problem/C)--->[Get Solution]()
+- [C. Jatayu's Balanced Bracket Sequence](https://codeforces.com/contest/1726/problem/C)--->[Get Solution](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/Union-Finding(Disjoint-Set)/Problems/7_cf_1726_C.cpp)
 - [SPOJ - CHAIN - Strange Food Chain](https://www.spoj.com/problems/CHAIN/)--->[Get Solution](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/Union-Finding(Disjoint-Set)/Problems/2_spoj_chain.cpp)
 - [SPOJ - CLFLARR - COLORFUL ARRAY](https://www.spoj.com/problems/CLFLARR/)--->[Get Solution](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/Union-Finding(Disjoint-Set)/Problems/3_spoj_CLFLARR.cpp)
 - [SPOJ - CONSEC-Consecutive Letters](https://www.spoj.com/problems/CONSEC/)--->[Get Solution](https://github.com/alaminkawsar/Data-Structure-and-Algorithm/blob/main/Data%20Structure/Union-Finding(Disjoint-Set)/Problems/4_spoj_CONSEC.cpp) , [alternative solution](http://en.shafaetsplanet.com/problem-solving-consecutive-letters-mist-inter-university-contest-2019)
