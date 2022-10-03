@@ -18,9 +18,13 @@
 using namespace std;
 int const sz=(int)2e5+5;
 
+map<string,int>has;
+
 void printPermuation(string s,int l, int r){
     if(l>=r){
+        if(has.count(s)) return;
         cout<<s<<endl;
+        has[s]++;
         return;
     }
     for(int i=l;i<=r;i++){
@@ -32,7 +36,7 @@ void printPermuation(string s,int l, int r){
 
 void solve()
 {
-    string  str = "ABCD";
+    string  str = "AABC";
     printPermuation(str,0,str.size()-1);
 
     
