@@ -26,70 +26,82 @@ struct node {
     }
 };
 
-void inOrder(node* curr){
-    if(curr==NULL){
-        return;
-    }
-    inOrder(curr->left);
-    printf("%d ",curr->item);
-    inOrder(curr->right);
-}
-void preOrder(node* curr){
-    if(curr==NULL){
-        return;
-    }
-    printf("%d ",curr->item);
-    preOrder(curr->left);
-    preOrder(curr->right);
-}
-void postOrder(node* curr){
-    if(curr==NULL){
-        return;
-    }
-    postOrder(curr->left);
-    postOrder(curr->right);
-    printf("%d ",curr->item);
-}
 
 node* start;
 
-void insert(int key){
-    if(start==NULL){
-        start = new node(key);
-        return;
-    }
-    node *curr=start, *par;
-    while(curr!=NULL){
-        par = curr;
-        if(curr->item<key){
-            curr = curr->right;
-        }else curr = curr->left;
-    }
-    node *newnode = new node(key);
-    if(par->item<key){
-        par->right = newnode;
-    }else par->left = newnode;
+class BST{
+    public:
+    node* start;
 
-}
+    BST(){
+        start=nullptr;
+    }
+
+    void insert(int key){
+        if(start==NULL){
+            start = new node(key);
+            return;
+        }
+        node *curr=start, *par;
+        while(curr!=NULL){
+            par = curr;
+            if(curr->item<key){
+                curr = curr->right;
+            }else curr = curr->left;
+        }
+        node *newnode = new node(key);
+        if(par->item<key){
+            par->right = newnode;
+        }else par->left = newnode;
+    }
+
+    void inOrder(node* curr){
+        if(curr==NULL){
+            return;
+        }
+        inOrder(curr->left);
+        printf("%d ",curr->item);
+        inOrder(curr->right);
+    }
+
+    void preOrder(node* curr){
+        if(curr==NULL){
+            return;
+        }
+        printf("%d ",curr->item);
+        preOrder(curr->left);
+        preOrder(curr->right);
+    }
+
+    void postOrder(node* curr){
+        if(curr==NULL){
+            return;
+        }
+        postOrder(curr->left);
+        postOrder(curr->right);
+        printf("%d ",curr->item);
+    }
+};
 void solve()
 {
     //make insert operation
-    insert(20);
-    insert(30);
-    insert(10);
-    insert(15);
-    insert(5);
+    BST bst;
+    
+    vector<int>ar{20,30,10,15,5};
+    for(auto x: ar){
+        bst.insert(x);
+    }
 
     printf("Pre Ordered Valeus: ");
-    preOrder(start);
+    bst.preOrder(bst.start);
     printf("\n");
 
     printf("In Ordered Valeus: ");
-    inOrder(start);
+    bst.inOrder(bst.start);
     printf("\n");
 
     printf("Post Ordered Valeus: ");
-    postOrder(start);
+    bst.postOrder(bst.start);
     printf("\n");
 
 }
