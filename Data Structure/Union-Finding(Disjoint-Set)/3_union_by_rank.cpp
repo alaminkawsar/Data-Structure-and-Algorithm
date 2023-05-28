@@ -5,48 +5,39 @@ using namespace std;
 typedef long long ll;
 const int sz = 1e5+10;
 
-vector<int>adj[sz];
-int parent[sz+5],ranked[sz+5],id[sz+5];
-
-void make_set(int v) {
-    parent[v] = v;
-    ranked[v]=0;
-}
-
-int find_set(int v) {
-    if (v == parent[v])
-        return v;
-    return parent[v] = find_set(parent[v]);
-}
-
-void union_sets(int a, int b) {
-    a = find_set(a);
-    b = find_set(b);
-    if (a != b){
-        if(ranked[a]<ranked[b])
-            swap(a,b);
-        parent[b]=a;
-        
-        if(ranked[a]==ranked[b])
-            ranked[a]++;
+struct UnionFind {
+    std::vector<int> parent,rank;
+    UnionFind(int n): parent(n+5),rank(n+5,1){
+        for(int i=1;i<=n;i++) parent[i]=i;
     }
-}
+    int find(int v) {
+        if (v == parent[v]) return v;
+        return parent[v] = find(parent[v]);
+    }
+    void merge(int a, int b) {
+        a = find(a),b = find(b);
+        if (a != b){
+            if(rank[a]<rank[b]) swap(a,b);
+            parent[b]=a;
+            if(rank[a]==rank[b]) rank[a]++;
+        }
+    }
+
+};
 
 int main(){
-    int n = 7, edge=6; 
-    
-    for(int i=1;i<=n;i++) make_set(i);
-    
+    int n = 7, edge=6;     
     int x,y;
+    UnionFind u(n);
     for(int i=0;i<edge;i++){
         cin>>x>>y;
-        union_sets(x,y);
+        u.merge(x,y);
     }
 
     //print every number ranked
     printf("Print their rank\n");
     for(int i=1;i<=n;i++)
-        printf("%d %d\n",i,ranked[i]);
+        printf("%d %d\n",i,u.rank[i]);
 
     
 
