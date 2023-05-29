@@ -8,7 +8,7 @@ const int sz = 1e5+10;
 struct UnionFind {
     std::vector<int> parent;
     UnionFind(int n): parent(n+5){
-        for(int i=1;i<=n;i++) parent[i]=i;
+        for(int i=0;i<=n;i++) parent[i]=i;
     }
     int find(int v) {
         if (v == parent[v]) return v;
